@@ -1,0 +1,9 @@
+.ant-card-meta-title {
+    text-transform: uppercase;
+}
+
+.ant-card-cover {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(201, 248, 248);
+}
