@@ -5,5 +5,9 @@
 .ant-card-cover {
     display: flex;
     justify-content: center;
-    background-color: rgb(201, 248, 248);
+    background-color: #69c0ff;
+}
+
+.ant-card p {
+    margin-bottom: 0;
 }
